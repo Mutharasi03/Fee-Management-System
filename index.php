@@ -17,7 +17,7 @@
         <header >
         <tr>
             <th>
-                <img src="image/logos.jpeg" alt="logo">
+                <img src="image/logos.jpeg" alt="Logo">
             </th>
         </tr>
     
